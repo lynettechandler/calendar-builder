@@ -1,6 +1,5 @@
 import * as React from "react";
 import { Button, Rows, Text } from "@canva/app-ui-kit";
-import { fabric } from "fabric";
 
 type props = {
     width: number;
